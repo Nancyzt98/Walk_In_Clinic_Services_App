@@ -1,4 +1,4 @@
-# Android Project: Walk_In_Clinic_Services_App
+# Android Project: Walk In Clinic Services App
 ### Group10 Members:
 > * Manlin Guo 6602848
 > * Tong Zhao 300037013
